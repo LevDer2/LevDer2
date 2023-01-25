@@ -1,0 +1,11 @@
+button{
+  padding: 10px;
+  background-color: lightgreen;
+  border:none;
+  border-radius: 5px;
+  margin-top: 10px;
+  
+}
+body{
+  background-color: teal;
+}
